@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "68208834ed2194c27d6c4bd0"
+  },
+  "nama_mahasiswa": "Miranti Djamaluddin",
+  "nim": "D0222503",
+  "prodi": "informatika"
+},
+{
+  "_id": {
+    "$oid": "68209d86868b4d81b960e053"
+  },
+  "nama_mahasiswa": "Muh Firmansyah",
+  "nim": "D0222507",
+  "prodi": "informatika"
+},
+{
+  "_id": {
+    "$oid": "68209ddb868b4d81b960e054"
+  },
+  "nama_mahasiswa": "Sultan Adjie Saputra",
+  "nim": "D0222504",
+  "prodi": "informatika"
+},
+{
+  "_id": {
+    "$oid": "68209e0c868b4d81b960e055"
+  },
+  "nama_mahasiswa": "Ismayanti",
+  "nim": "D0222004",
+  "prodi": "informatika"
+}]
