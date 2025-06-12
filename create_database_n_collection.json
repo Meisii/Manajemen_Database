@@ -1,5 +1,3 @@
-// Membuat / menggunakan database
 use mahasiswaDB
 
-// Membuat collection secara eksplisit (opsional, biasanya dibuat otomatis saat insert)
 db.createCollection("mahasiswa")
