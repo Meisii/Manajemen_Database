@@ -1,3 +1,0 @@
-use mahasiswaDB
-
-db.createCollection("mahasiswa")
